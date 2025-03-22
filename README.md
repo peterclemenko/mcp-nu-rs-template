@@ -1,4 +1,4 @@
-MCP Rust CLI server template
+MCP Nushell Rust CLI server template
 =============================
 
 Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications
